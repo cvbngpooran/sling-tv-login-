@@ -9,7 +9,7 @@ For Login Sling Tv Account Click on Login Button
 -----------------------------------------------------------
 .. image:: aclogportal.jpg
    :alt: My Project Logo
-   :width: 200px
+   :width: 500px
    :align: center
    :target: https://aclogportal.com/sling-tv-login
 
