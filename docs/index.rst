@@ -8,11 +8,10 @@ How Do I "Login Sling Tv Account"? A Simple Guide
 For Login Sling Tv Account Click on Login Button
 -----------------------------------------------------------
 .. image:: aclogportal.jpg
-:target: https://aclogportal.com/
-   :alt: Sling Tv Login
-   :width:200px
-   :align:center
-   :margin:20px
+   :alt: My Project Logo
+   :width: 200px
+   :align: center
+   :target: https://aclogportal.com/sling-tv-login
 
 Sling TV has become a popular and adaptable alternative to regular cable TV in the fast-changing world of streaming alternatives.  Sling TV is popular because it has a lot of channels, is cheap, and lets you customize your packages. It meets the entertainment demands of a lot of people.  Sling TV has something for everyone, whether you like sports, movies, or shows from other countries.  Users must first know how to log in in order to use these features.  This article goes into great detail about the question, "How do I 'Login Sling TV Account'?"  A Simple Guide is meant to help both new and experienced Sling TV users easily find their way around their accounts.
 
