@@ -8,7 +8,7 @@ How Do I "Login Sling Tv Account"? A Simple Guide
 For Login Sling Tv Account Click on Login Button
 -----------------------------------------------------------
 .. image:: aclogportal.jpg
-:target: https://aclogportal.com/
+   :target: https://aclogportal.com/
    :alt: Sling Tv Login
    :width:200px
    :align:center
